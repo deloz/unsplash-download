@@ -2,7 +2,6 @@
 
 import 'babel-polyfill';
 import path from 'path';
-import rp from 'request-promise';
 import Spider from  './lib/spider';
 import * as utils from './lib/utils';
 

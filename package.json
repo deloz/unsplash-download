@@ -4,7 +4,7 @@
   "description": "a download tool for unsplash pictures.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "babel src -d app",
+    "build": "babel src -d app"
   },
   "keywords": [
     "download",
@@ -21,8 +21,7 @@
     "cheerio": "^0.20.0",
     "commander": "^2.9.0",
     "mkdirp": "^0.5.1",
-    "request": "^2.69.0",
-    "request-promise": "^2.0.1"
+    "request": "^2.69.0"
   },
   "devDependencies": {
     "babel-cli": "^6.6.5",
